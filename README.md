@@ -1,5 +1,8 @@
-# Практика, которая сделает тебя FRONTEND разработчиком | React Crypto App
+# React + Vite
 
-Видео тут: https://youtu.be/S4HOy6yTclU
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Исходный код начала: https://t.me/js_by_vladilen/796
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
