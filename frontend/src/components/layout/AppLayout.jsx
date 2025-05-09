@@ -1,7 +1,7 @@
 import { Layout, Spin } from "antd";
-import AppHeader from "../../components/layout/AppHeader";
-import AppSider from "../../components/layout/AppSider";
-import AppContent from "../../components/layout/AppContent";
+import AppHeader from "./AppHeader";
+import AppSider from "./AppSider";
+import AppContent from "./AppContent";
 import { useCrypto } from "../../context/CryptoContext";
 
 export default function AppLayout() {
